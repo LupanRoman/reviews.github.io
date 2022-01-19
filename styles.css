@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    font-family: 'Spartan';
+    max-width: 1440px;
+}
+
+.heading__one{
+    color: hsl(300, 43%, 22%);
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.main__para{
+    color: hsl(303, 10%, 53%);
+    position: absolute;
+    font-size: 16px;
+    top: 38%;
+    left: 15%;
+    font-weight: 500;
+}
+
+.class__stars{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+}
+
+.star__two{
+    position: absolute;
+    top: 30%;
+    left: 58%;
+}
+
+.star__three{
+    position: absolute;
+    top: 40%;
+    left: 61%;
+}
+
+.reviews{
+    position: absolute;
+    font-size: 15px;
+    top: 20%;
+    left: 65%;
+}
+
+.guru{
+    position: absolute;
+    font-size: 15px;
+    top: 30%;
+    left: 68%;
+}
+
+.besttech{
+    position: absolute;
+    font-size: 15px;
+    top: 40%;
+    left: 71%;
+}
+
+.one{
+    position: absolute;
+    background-color: hsl(300, 43%, 22%);
+    height: 250px;
+    width: 350px;
+    top: 53%;
+    left: 15%;
+    border-radius: 15px;
+}
+
+.colton{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: 15%;
+    left: 20%;
+    line-height: 25px;
+}
+
+.subtext{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(333, 80%, 67%);
+}
+
+.conf__one{
+    color: white;
+    position: relative;
+    font-size: 12px;
+    top: 30%;
+    left: 9%;
+
+}
+
+
+.two{
+    position: absolute;
+    background-color: hsl(300, 43%, 22%);
+    height: 250px;
+    width: 350px;
+    top: 56%;
+    left: 43%;
+    border-radius: 15px;
+}
+
+.irene{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: 15%;
+    left: 20%;
+    line-height: 25px;
+}
+
+.second{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(333, 80%, 67%);
+}
+
+.conf__two{
+    color: white;
+    position: relative;
+    font-size: 12px;
+    top: 30%;
+    left: 9%;
+
+}
+
+.three{
+    position: absolute;
+    background-color: hsl(300, 43%, 22%);
+    height: 250px;
+    width: 350px;
+    top: 59%;
+    left: 71%;
+    border-radius: 15px;
+}
+
+.anne{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: 15%;
+    left: 20%;
+    line-height: 25px;
+}
+
+.third{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(333, 80%, 67%);
+}
+
+.conf__three{
+    color: white;
+    position: relative;
+    font-size: 12px;
+    top: 30%;
+    left: 9%;
+
+}
+
+#colton{
+    position: relative;
+    top: -25%;
+    left: 7%;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+#irene{
+    position: relative;
+    top: -25%;
+    left: 7%;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#anne{
+    position: relative;
+    top: -25%;
+    left: 7%;
+    height: 40px;
+    border-radius: 20px;
+}
+
+
+
+
+
